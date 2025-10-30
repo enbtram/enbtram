@@ -8,7 +8,7 @@
  <a href="https://github.com/enbtram?tab=followers"><img src="https://img.shields.io/github/followers/enbtram?style=social"></a>
 </div> -->
 <p align="center">
-  <a href="https://github.com/enbtram"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Project%20Manager;Game%20and%20AI%20Developer;10%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=238636&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/enbtram"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;AI%20and%20Unity%20Game%20Developer;10%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=238636&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
