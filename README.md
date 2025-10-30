@@ -33,12 +33,8 @@ I’m passionate about creating engaging, technically polished products and guid
 ### Languages
 <table>
     <td align="center" width="90">
-        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" /></a>
-        <br><h4>Dart</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.java.com/" target="_blank"><img alt="Java" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
-        <br><h4>Java</h4>
+        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" /></a>
+        <br><h4>C#</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
@@ -53,10 +49,6 @@ I’m passionate about creating engaging, technically polished products and guid
         <br><h4>PHP</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.scala-lang.org/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/scala.webp" /></a>
-        <br><h4>Scala</h4>
-    </td>
-    <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
         <br><h4>Python</h4>
     </td>
@@ -69,20 +61,8 @@ I’m passionate about creating engaging, technically polished products and guid
         <br><h4>React</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://jquery.com/" target="_blank"><img alt="jQuery" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
-        <br><h4>jQuery</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://redux.js.org/" target="_blank"><img alt="Redux" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
-        <br><h4>Redux</h4>
-    </td>
-    <td align="center" width="90">
         <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
         <br><h4>Node.js</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.chaijs.com/" target="_blank"><img alt="Chai" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/chai.svg" /></a>
-        <br><h4>Chai</h4>
     </td>
     <td align="center" width="90">
     </td>
