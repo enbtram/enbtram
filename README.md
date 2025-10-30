@@ -8,7 +8,7 @@
  <a href="https://github.com/enbtram?tab=followers"><img src="https://img.shields.io/github/followers/enbtram?style=social"></a>
 </div> -->
 <p align="center">
-  <a href="https://github.com/enbtram"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Data%20Scientist;AI%20and%20Full%20Stack%20Developer;9%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/enbtram"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Project%20Manager;Game%20and%20Game%20Developer;10%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=238636&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
@@ -54,66 +54,6 @@ I’m passionate about creating engaging, technically polished products and guid
     </td>
 </table>
 
-### Libraries
-<table>
-    <td align="center" width="90">
-        <a href="https://react.dev/" target="_blank"><img alt="React width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-        <br><h4>React</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br><h4>Node.js</h4>
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-</table>
-
-### Frameworks
-<table>
-    <td align="center" width="90">
-        <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
-        <br><h4>Next.js</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br><h4>Tailwind CSS</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
-        <br><h4>Angular</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" /></a>
-        <br><h4>Flutter</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://github.com/github/explore/blob/main/topics/react-native/react-native.png?raw=true" /></a>
-        <br><h4>React Native</h4>
-    </td> 
-    <td align="center" width="90">
-        <a href="https://vuejs.org/" target="_blank"><img alt="Vue" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
-        <br><h4>Vue</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
-        <br><h4>Django</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://mochajs.org/" target="_blank"><img alt="Mocha" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/mocha.png" /></a>
-        <br><h4>Mocha</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://jestjs.io/" target="_blank"><img alt="Jest" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jest.jpg" /></a>
-        <br><h4>Jest</h4>
-    </td>
-    <td align="center" width="90">
-    </td>
-</table>
-
 ### Database
 <table>
     <td align="center" width="90">
@@ -135,12 +75,6 @@ I’m passionate about creating engaging, technically polished products and guid
     <td align="center" width="90">
         <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
         <br><h4>MongoDB</h4>
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
     </td>
 </table>
 
