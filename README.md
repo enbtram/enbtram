@@ -17,15 +17,13 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/best-luck/best-luck/blob/main/coding.gif?raw=true">
 
 <p>
-As a Senior Fullstack & AI Engineer with over 9 years of hands-on experience, I architect and deliver robust, scalable, and high-performance applications that bridge the gap between software and intelligent systems. My technical foundation spans JavaScript (React, Node.js) and Python, with deep expertise in building cloud-connected web platforms and AI-powered applications.
+I’m a lead game developer with over ten years of experience developing games across mobile, web, and desktop using Unity. Throughout my career, I’ve built and launched a wide range of projects, combining solid gameplay engineering with a strong sense of design and performance.
 
-I bring a holistic approach to development—combining front-end excellence, backend architecture, and efficient database design (SQL & NoSQL) to build seamless, data-driven solutions. Whether it’s real-time dashboards, mobile applications (Flutter & React Native), or full-stack web platforms, I ensure solutions are optimized, secure, and production-ready.
+Alongside game development, I specialize in integrating AI technologies into interactive applications, bringing intelligent features and automation directly into Unity-based experiences.
 
-Throughout my career, I’ve led cross-functional teams and delivered complex products from concept to launch—collaborating closely with designers, product managers, and engineers in agile, fast-paced environments. I champion clean code, performance optimization, and test-driven development, and I’m constantly exploring emerging technologies to keep my work innovative and future-proof.
+Currently, I’m working as a project manager for KittyHome while also leading development for the OhTanks game, where I oversee the entire production cycle — from planning and system design to delivery and team coordination.
 
-My recent work includes AI-driven system design, integrating machine learning models into production-grade applications for intelligent automation, predictive analytics, and enhanced user experience. I’m passionate about building smart, data-centric systems that deliver real-world impact.
-
-Beyond my core work, I contribute to open-source projects, mentor junior engineers, and foster a culture of knowledge-sharing, innovation, and growth.
+I’m passionate about creating engaging, technically polished products and guiding teams to bring ambitious ideas to life.
 
 </p>
 
