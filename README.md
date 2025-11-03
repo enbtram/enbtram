@@ -39,8 +39,7 @@ I’m passionate about creating engaging, technically polished products and guid
   <table>
     <tr>
       <td colspan="10">
-        <a><img src="https://github.com/enbtram/enbtram/blob/main/assets/ohtanks_thumbnail.jpg" /></a>
-        [![Watch the Video](./assets/ohtanks_thumbnail.jpg)](https://www.youtube.com/watch?v=tEthzPg1UBQ)
+        <a href="https://www.youtube.com/watch?v=tEthzPg1UBQ"><img src="https://img.youtube.com/vi/tEthzPg1UBQ/maxresdefault.jpg" /></a>
       </td>
     </tr>
   </table>
