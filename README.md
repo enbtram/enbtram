@@ -16,7 +16,7 @@ I’m a lead game developer with over ten years of experience developing games a
 
 Alongside game development, I specialize in integrating AI technologies into interactive applications, bringing intelligent features and automation directly into Unity-based experiences.
 
-Currently, I’m working as a project manager for KittyHome while also leading development for the <a href="https://www.youtube.com/watch?v=tEthzPg1UBQ">OhTanks</a> game, where I oversee the entire production cycle — from planning and system design to delivery and team coordination.
+Currently, I’m working as a project manager for <a href="https://github.com/KittyHome">KittyHome</a> while also leading development for the <a href="https://www.youtube.com/watch?v=tEthzPg1UBQ">OhTanks</a> game, where I oversee the entire production cycle — from planning and system design to delivery and team coordination.
 
 I’m passionate about creating engaging, technically polished products and guiding teams to bring ambitious ideas to life.
 
