@@ -1,4 +1,3 @@
-<center><h1>Super @lchemist</h1></center>
 <img src="./assets/profile-night-green.svg" style = "width : 100%;"/>
 
 <div align="center">
@@ -33,4 +32,17 @@ I’m passionate about creating engaging, technically polished products and guid
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=enbtram&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+
+<h2>My Current Work</h2>
+
+<div style="display: flex; align-items: flex-start; align: center">
+  <table>
+    <tr>
+      <td colspan="10">
+        [![My Current Work](https://img.youtube.com/vi/tEthzPg1UBQ/maxresdefault.jpg)](https://youtu.be/tEthzPg1UBQ)
+      </td>
+    </tr>
+  </table>
+</div>
+
 
