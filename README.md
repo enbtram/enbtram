@@ -39,7 +39,7 @@ I’m passionate about creating engaging, technically polished products and guid
   <table>
     <tr>
       <td colspan="10">
-        [![Watch the Video](https://img.youtube.com/vi/tEthzPg1UBQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=tEthzPg1UBQ)
+        [![Watch the Video](https://img.youtube.com/vi/tEthzPg1UBQ/maxresdefault.jpg)] (https://www.youtube.com/watch?v=tEthzPg1UBQ)
       </td>
     </tr>
   </table>
