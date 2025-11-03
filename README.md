@@ -75,6 +75,18 @@ I’m passionate about creating engaging, technically polished products and guid
     </td>    
   </tr>  
   <tr>  
+   <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="icon" alt=".Net" />  
+      <br>.Net  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=threejs" alt="icon" alt="Threejs" />  
+      <br>Threejs  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=react" alt="icon" alt="React" />  
+      <br>React  
+    </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
       <br>Express  
@@ -82,6 +94,10 @@ I’m passionate about creating engaging, technically polished products and guid
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="icon" alt="Nestjs" />  
       <br>Nestjs  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=next" alt="icon" alt="Next" />  
+      <br>Next  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
@@ -92,66 +108,12 @@ I’m passionate about creating engaging, technically polished products and guid
       <br>Flask  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="icon" alt=".Net" />  
-      <br>.Net  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=spring" alt="icon" alt="Spring" />  
-      <br>Spring  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=hibernate" alt="icon" alt="Hibernate" />  
-      <br>Hibernate  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=wordpress" alt="icon" alt="WordPress" />  
-      <br>WordPress  
-    </td>
-    <td align="center" width="80">  
       <img  width="35" height="35" src="assets/ci-logo.png" alt="icon" alt="CI" />  
       <br>CI  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
       <br>Laravel  
-    </td>
-  </tr>
-  <tr>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=react" alt="icon" alt="React" />  
-      <br>React  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=next" alt="icon" alt="Next" />  
-      <br>Next  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=vue" alt="icon" alt="Vue" />  
-      <br>Vue  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=svelte" alt="icon" alt="Svelte" />  
-      <br>Svelte  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=electron" alt="icon" alt="Electron" />  
-      <br>Electron  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=alpinejs" alt="icon" alt="Alpinejs" />  
-      <br>Alpinejs  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
-      <br>Tailwind  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=threejs" alt="icon" alt="Threejs" />  
-      <br>Threejs  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=bootstrap" alt="icon" alt="Bootstrap" />  
-      <br>BS  
     </td>
   </tr>
   <tr>  
