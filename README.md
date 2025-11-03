@@ -33,17 +33,18 @@ I’m passionate about creating engaging, technically polished products and guid
     </a>
 </p>
 
-<h2>My Current Work</h2>
+## My Current Work
 
 <div style="display: flex; align-items: flex-start; align: center">
   <table>
     <tr>
       <td colspan="10">
-        [![Watch the video](./assets/ohtanks_thumbnail.jpg)](https://www.youtube.com/watch?v=tEthzPg1UBQ)
+        [![Watch the Video](./assets/ohtanks_thumbnail.jpg)](https://www.youtube.com/watch?v=tEthzPg1UBQ)
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
