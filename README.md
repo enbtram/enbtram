@@ -1,4 +1,4 @@
-<img src="./assets/profile-night-green.svg" style = "width : 100%;"/>
+<!--img src="./assets/profile-night-green.svg" style = "width : 100%;"/-->
 
 <div align="center">
  
@@ -33,6 +33,10 @@ I’m passionate about creating engaging, technically polished products and guid
 <div style="display: flex; align-items: flex-start; align-content: center">  
 <table style="text-align: center;">  
   <tr> 
+   <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=unity" alt="C#" />  
+      <br>Unity
+    </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=cs" alt="C#" />  
       <br>C#  
@@ -188,8 +192,8 @@ I’m passionate about creating engaging, technically polished products and guid
       <br>AWS  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" alt="RaspberryPi" />  
-      <br>RP 
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=supabase" alt="icon" alt="RaspberryPi" />  
+      <br>Supabase
     </td>
   </tr>
 </table>  
