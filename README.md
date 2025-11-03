@@ -1,3 +1,6 @@
+<center><h1>Super @lchemist</h1></center>
+<img src="./assets/profile-night-green.svg" style = "width : 100%;"/>
+
 <div align="center">
  
 <p align="center">
@@ -31,12 +34,3 @@ I’m passionate about creating engaging, technically polished products and guid
     </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/enbtram?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=enbtram&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
-</p>
-
-<div align="center">
-  <img src="https://github.com/enbtram/enbtram/blob/main/divider2.png" alt="divider"/>
-</div>
-    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
