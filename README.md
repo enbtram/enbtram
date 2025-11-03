@@ -7,7 +7,7 @@
 </p>
 
 <div align="left">
-### 👨🏽‍💻 &nbsp;About Me
+👨🏽‍💻 &nbsp;About Me
 
 <img align="right" alt="Coding" width="400" src="https://github.com/enbtram/enbtram/blob/main/coding.gif?raw=true">
 
