@@ -3,7 +3,7 @@
 <div align="center">
  
 <p align="center">
-  <a href="https://github.com/enbtram"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;AI%20and%20Unity%20Game%20Developer;10%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Anton&center=true&width=650&height=120&color=5bcdec&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/enbtram"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;AI%20and%20Unity%20Developer;10%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Anton&center=true&width=650&height=120&color=5bcdec&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
