@@ -7,10 +7,6 @@
 </p>
 
 <div align="left">
-👨🏽‍💻 &nbsp;About Me
-
-<img align="right" alt="Coding" width="400" src="https://github.com/enbtram/enbtram/blob/main/coding.gif?raw=true">
-
 <p>
 I’m a lead game developer with over ten years of experience developing games across mobile, web, and desktop using Unity. Throughout my career, I’ve built and launched a wide range of projects, combining solid gameplay engineering with a strong sense of design and performance.
 
@@ -161,7 +157,7 @@ I’m passionate about creating engaging, technically polished products and guid
 </table>  
 </div>
 
-## My Current Work - "OhTanks" MMO Game
+# My Current Work - "OhTanks" MMO Game
 
 <div style="display: flex; align-items: flex-start; align: center">
   <table>
