@@ -157,7 +157,7 @@ I’m passionate about creating engaging, technically polished products and guid
 </table>  
 </div>
 
-# My Current Work - "OhTanks" MMO Game
+# My Current Work - "OhTanks" MMO P2E Game
 
 <div style="display: flex; align-items: flex-start; align: center">
   <table>
