@@ -14,7 +14,7 @@ Alongside game development, I specialize in integrating AI technologies into int
 
 Currently, I'm working as a project manager for <a href="https://github.com/KittyHome">KittyHome</a> while also leading development for the <a href="https://www.youtube.com/watch?v=tEthzPg1UBQ">OhTanks</a> game, where I oversee the entire production cycle, from planning and system design to delivery and team coordination.
 
-I'm passionate about creating engaging, technically polished products and guiding teams to bring ambitious ideas to life.
+I'm passionate about creating engaging, technically polished products and guiding teams to bring ambitious ideas to life. 
 
 </p>
 
