@@ -10,7 +10,7 @@
 <p>
 I'm a lead game developer with over 10 years of experience developing games across mobile, web, and desktop using Unity, UE, Three.js. Throughout my career, I've built and launched a wide range of projects, combining solid gameplay engineering with a strong sense of design and performance.
 
-Alongside game development, I specialize in integrating AI technologies into interactive applications, bringing intelligent features and automation directly into Unity-based experiences.
+Alongside game development, I specialize in integrating AI technologies into interactive applications, bringing intelligent features and automation directly into Unity based experiences.
 
 Currently, I'm working as a project manager for <a href="https://github.com/KittyHome">KittyHome</a> while also leading development for the <a href="https://www.youtube.com/watch?v=tEthzPg1UBQ">OhTanks</a> game, where I oversee the entire production cycle, from planning and system design to delivery and team coordination.
 
